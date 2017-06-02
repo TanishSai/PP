@@ -1,0 +1,102 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/bg.jpg</file>
+        <file>images/ProxyPics-ICON-logo-Black.png</file>
+        <file>images/ProxyPics-ICON-logo-White.png</file>
+        <file>images/ProxyPics-ICON-logo-White62x110.png</file>
+        <file>images/ProxyPics-ICON-logo-WhiteSmall.png</file>
+        <file>images/ProxyPics-logo-01.png</file>
+        <file>images/ProxyPics-logo-02.png</file>
+        <file>images/ProxyPics-logo-03.png</file>
+        <file>images/ProxyPics-logo-04.png</file>
+        <file>images/proxypicsicon.png</file>
+        <file>images/proxypicsicon1k.png</file>
+        <file>images/proxyPicsLogo.png</file>
+        <file>images/proxyPicsLogoblackwhite.png</file>
+        <file>images/putLog.png</file>
+        <file>images/1-START-UP.png</file>
+        <file>images/2-LOGIN.png</file>
+        <file>images/3-REGISTER.png</file>
+        <file>images/ProxyPicsLogoSplash.png</file>
+        <file>images/bg.png</file>
+        <file>images/btn_prev.png</file>
+        <file>images/drawer.png</file>
+        <file>images/home.png</file>
+        <file>images/icon-back.png</file>
+        <file>images/icon-settings.png</file>
+        <file>images/info.png</file>
+        <file>images/left-32.png</file>
+        <file>images/leftanglearrow.png</file>
+        <file>images/quit.png</file>
+        <file>images/X-exit-icon.png</file>
+        <file>images/Menu.png</file>
+        <file>images/Proxy-Login-BKGD.png</file>
+        <file>images/take-photo-icon.png</file>
+        <file>images/CALENDAR.png</file>
+        <file>images/House Icon.png</file>
+        <file>images/VERIFIED.png</file>
+        <file>images/ASSIGNMENTS ICON-main menu.png</file>
+        <file>images/HELP ICON-main menu.png</file>
+        <file>images/HOME ICON-for main menu.png</file>
+        <file>images/REQUESTS ICON-main menu.png</file>
+        <file>images/TERMS ICON-main menu.png</file>
+        <file>images/User-icon.png</file>
+        <file>images/camera_2x.png</file>
+        <file>images/settings.png</file>
+        <file>images/icon-go.png</file>
+        <file>images/star.png</file>
+        <file>images/PayPal.PNG</file>
+        <file>images/logout-icon.png</file>
+        <file>images/square.png</file>
+        <file>images/focus.png</file>
+        <file>images/assignmentItemImages/background_copy.png</file>
+        <file>images/assignmentItemImages/layer_0.png</file>
+        <file>images/assignmentItemImages/layer_7_copy.png</file>
+        <file>images/assignmentItemImages/layer_11.png</file>
+        <file>images/assignmentItemImages/layer_12.png</file>
+        <file>images/assignmentItemImages/layer_14.png</file>
+        <file>images/assignmentItemImages/layer_16.png</file>
+        <file>images/assignmentItemImages/layer_17.png</file>
+        <file>images/assignmentItemImages/layer_17_copy.png</file>
+        <file>images/assignmentItemImages/layer_18.png</file>
+        <file>images/assignmentItemImages/layer_19.png</file>
+        <file>images/assignmentItemImages/layer_20.png</file>
+        <file>images/assignmentItemImages/layer_21.png</file>
+        <file>images/photAssignmentHeader/layer_18.png</file>
+        <file>images/photAssignmentHeader/layer_19.png</file>
+        <file>images/photAssignmentHeader/layer_20.png</file>
+        <file>images/photAssignmentHeader/layer_21.png</file>
+        <file>images/photAssignmentHeader/layer_22.png</file>
+        <file>images/photAssignmentHeader/layer_23.png</file>
+        <file>images/photAssignmentHeader/layer_24.png</file>
+        <file>images/photAssignmentHeader/layer_25.png</file>
+        <file>images/photAssignmentHeader/light.png</file>
+        <file>images/photAssignmentHeader/text_field.png</file>
+        <file>images/myRequestHeader/accepted.png</file>
+        <file>images/myRequestHeader/accomplished.png</file>
+        <file>images/myRequestHeader/active.png</file>
+        <file>images/myRequestHeader/layer_0.png</file>
+        <file>images/myRequestHeader/light.png</file>
+        <file>images/myRequestHeader/paid.png</file>
+        <file>images/myRequestHeader/popup.png</file>
+        <file>images/myRequestHeader/x.png</file>
+        <file>images/loginPage/create_account.png</file>
+        <file>images/loginPage/create_account_glow.png</file>
+        <file>images/loginPage/forgot_password.png</file>
+        <file>images/loginPage/go_button.png</file>
+        <file>images/loginPage/go_button_open.png</file>
+        <file>images/loginPage/layer_0.png</file>
+        <file>images/loginPage/logo.png</file>
+        <file>images/loginPage/text_field_emial.png</file>
+        <file>images/loginPage/text_field_pw.png</file>
+        <file>images/myAssignmentHeader/active.png</file>
+        <file>images/myAssignmentHeader/completed.png</file>
+        <file>images/myAssignmentHeader/expired.png</file>
+        <file>images/myAssignmentHeader/layer_0.png</file>
+        <file>images/myAssignmentHeader/light.png</file>
+        <file>images/myAssignmentHeader/pending.png</file>
+        <file>images/myAssignmentHeader/popup.png</file>
+        <file>images/myAssignmentHeader/x.png</file>
+    </qresource>
+</RCC>

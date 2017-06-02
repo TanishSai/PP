@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>html/google_maps.html</file>
+        <file>html/squareup.html</file>
+    </qresource>
+</RCC>
