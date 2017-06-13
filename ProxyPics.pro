@@ -1,4 +1,4 @@
-# (C) Copyright Positively Front Street, Inc 2016
+QT += webengine# (C) Copyright Positively Front Street, Inc 2016
 #
 # Author thurberdog (Louis Meadows) @nokwebdev
 #
@@ -15,6 +15,7 @@ QT += network
 QT += sensors
 QT += multimedia
 QT += positioning
+QT += webengine
 
 #QTPLUGIN += qtsensors_ios
 # We want to compile the QML both for performance
