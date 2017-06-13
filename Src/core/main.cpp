@@ -4,6 +4,8 @@
 
 #include "main.h"
 #include "imageprovider.h"
+#include "QtWebEngine"
+
 /**
  * @author Louis Meadows
  * @version 0.3.6
@@ -60,6 +62,8 @@ int main(int argc, char *argv[])
     proxyPics->CheckPoint(checkdata); // tell proxypics server PWD UDP
 
     engine = new QQmlApplicationEngine();
+   	QtWebEngine::initialize();
+
     qml = QUrl("qrc:/Src/gui/QML/main.qml");
     engine->clearComponentCache();
     engine->rootContext()->setContextProperty("proxyPics",proxyPics.data());
